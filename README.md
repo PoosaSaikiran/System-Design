@@ -1,4 +1,1 @@
 # System-Design
-n
-n
-;
