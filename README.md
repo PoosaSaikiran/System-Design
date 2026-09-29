@@ -8,6 +8,6 @@ n
 m
 n
 mm
-nnn
+nnnm
 n
 n
