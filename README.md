@@ -4,7 +4,7 @@ n
 n
 n
 nn
-n
+nm
 m
 n
 mm
