@@ -4,5 +4,5 @@ n
 n
  b
 b
-bb
+bbb
 bb
