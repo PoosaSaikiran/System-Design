@@ -1,8 +1,1 @@
 # System-Design
-y
-yy
-y
-y
-y
-y
-o
