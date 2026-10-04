@@ -4,7 +4,7 @@ n
 n
  b
 b
-bbb
+bbbn
 bb
 b
 n
