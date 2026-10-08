@@ -6,5 +6,5 @@ h
 hh
 hhhh
 h
-hh
+hhh
 h
