@@ -6,6 +6,6 @@ t
 b
 bg
 b
-bg
+bgg
 ggg
 g
