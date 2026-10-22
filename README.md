@@ -4,7 +4,7 @@ s
 t
 t
 b
-b
+bg
 b
 bg
 ggg
