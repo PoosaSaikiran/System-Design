@@ -9,6 +9,6 @@ b
 bgg
 ggg
 g
-ggg
+gggg
 g
 gg
