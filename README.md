@@ -7,7 +7,7 @@ bg
 bb
 bb
 b
-bbg
+bbgg
 b
 g
 g
