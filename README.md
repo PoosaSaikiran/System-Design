@@ -1,14 +1,1 @@
-gh#System-Design
-b
-b
-j
-hh
-h
-h
-ggg
-g
-ggg
-ggg
-g
-g
-f
+#System-Design
