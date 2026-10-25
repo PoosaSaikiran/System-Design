@@ -1,15 +1,1 @@
 #System-Design
-y
-t
-t
-t
-t
-t
-jj
-jh
-jj
-jjh
-j
-n
-j
-h
