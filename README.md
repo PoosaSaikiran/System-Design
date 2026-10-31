@@ -1,14 +1,1 @@
 j#System-Design
-y
-t
-t
-g
-gg
-d
-gt
-h
-h
-hh
-h
-h
-h
