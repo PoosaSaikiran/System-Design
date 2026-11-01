@@ -5,6 +5,3 @@ n
 n
 n
 m
-m
-m
-m
