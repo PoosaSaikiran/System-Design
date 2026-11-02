@@ -1,11 +1,2 @@
 #System-Design
-K
-K
-K
-K
-K
-K
-K
-KN
-K
-K
+
