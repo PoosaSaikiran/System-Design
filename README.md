@@ -1,2 +1,1 @@
 G#System-Design
-G
