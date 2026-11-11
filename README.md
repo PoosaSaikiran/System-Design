@@ -4,7 +4,7 @@ vv
 v
 v
 vg
-g
+
 
 gg
 
