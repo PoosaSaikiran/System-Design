@@ -6,5 +6,5 @@ vg
 v
 g
 g
-g
+gg
 g
