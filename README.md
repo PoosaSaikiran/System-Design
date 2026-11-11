@@ -3,7 +3,7 @@ v
 vv
 v
 v
-vg
+v
 
 
 g
