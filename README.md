@@ -7,5 +7,4 @@ m
 mn
 m
 n
-n
-n
+nn
