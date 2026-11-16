@@ -1,9 +1,1 @@
 #System-Design
-j
-j
-j
-m
-m
-m
-m
-mmmm
