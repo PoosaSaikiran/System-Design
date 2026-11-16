@@ -1,12 +1,1 @@
 #System-Design
-g
-k
-k
-k
-k
-kk
-k
-k
-k
-kkm
-m
