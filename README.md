@@ -1,9 +1,1 @@
 #System-Design
-l
-l
-l
-l
-kk
-bk
-k
-k
