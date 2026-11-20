@@ -1,3 +1,1 @@
-k#System-Design
-k
-k
+#System-Design
