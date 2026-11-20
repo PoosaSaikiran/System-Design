@@ -1,12 +1,1 @@
 #System-Design
-k
-j
-j
-j
-j
-j
-jjjjj
-jjj
-jj
-jjj
-j
